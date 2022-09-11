@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap');
+
+@layer base {
+  
+    li{
+        @apply px-4;
+        @apply cursor-pointer
+    }
+}
+body{
+    font-family:"tahoma"
+}
