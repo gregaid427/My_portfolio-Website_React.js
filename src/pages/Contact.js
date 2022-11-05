@@ -6,7 +6,7 @@ export const Contact = () => {
     return (
       <div name='contact' className=' w-full h-screen bg-slate-600  flex justify-center items-center p-4'>
         <form action='' className='flex flex-col max-w-[600px] w-full'>
-          <div className='' >
+          <div className='pt-10' >
           <p className='text-4xl font-bold inline border-b-4 border-pink-600 text-gray-300 ' >Contact</p>
           <p className='text-gray-300 py-4' > Submit the form below or shoot me an email - gregoryd428@gmail.com</p>
           <p className='text-gray-300 py-4 text-2xl' >gregoryd428@gmail.com</p>
