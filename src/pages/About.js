@@ -13,11 +13,11 @@ export const About = () => {
         </div>
       
       <div className="max-w-[1000px] w-full flex md:flex-row sm:flex-col gap-8 px-4">
-        <div className="sm:text-right text-4xl font-bold  ">
+        <div className="sm:text-right flex-1 text-4xl font-bold  ">
           <p>Hi, i'm Greg, nice to meet you, please take a look around</p>
         </div>
         <div >
-          <p className="text-2xl">
+          <p className="text-2xl flex-1">
             I am passionate about building excellent software Applicatios and websites. I specialize in creating software for
             clients ranging from individuals and small businesses all the way to
             large enterprise corporations. What would you do if you had a
