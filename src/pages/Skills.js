@@ -27,7 +27,7 @@ export const Skills = () => {
         </div>
        
 
-      <div className=" w-full grid grid-cols-2 sm:grid-cols-4  gap-4  text-center py-8">
+      <div className=" w-full grid grid-cols-3 sm:grid-cols-4  gap-4  text-center py-8">
         <div className=" shadow-md pt-5 shadow-[#040c16] hover:scale-100 duration-500 ">
           <img className="w-20 mx-auto " src={HTML}></img>
           <p className="my-4">Html</p>
