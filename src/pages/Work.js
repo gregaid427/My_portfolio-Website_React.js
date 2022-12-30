@@ -43,7 +43,7 @@ export const Work = () => {
 
             <div className="mx-auto  ">
               {" "}
-              <a href="https://greensquarereact.vercel.app/employee-guide">
+              <a href="https://greensquarereact.vercel.app">
                 <button className="text-white group border-2 px-6 py-3 my-2 flex  items-center  hover:bg-pink-600 hover:border-pink-600">
                   view{" "}
                   <span className="group-hover:pl-5 duration-300">
