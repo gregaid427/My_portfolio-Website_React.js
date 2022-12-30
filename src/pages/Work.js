@@ -17,8 +17,8 @@ import gm from "../assets/gm.JPG";
 import sd from "../assets/sd.png";
 import rx from "../assets/ex.JPG";
 import ro from "../assets/ro.JPG";
-import hm from "../assets/ro.JPG";
-import bd from "../assets/ro.JPG";
+import hm from "../assets/11.JPG";
+import bd from "../assets/22.JPG";
 
 export const Work = () => {
   return (
