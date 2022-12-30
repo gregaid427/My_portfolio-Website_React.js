@@ -506,7 +506,7 @@ export const Work = () => {
 
             <div className="mx-auto  ">
               {" "}
-              <a href="https://memory-game--app.herokuapp.com/">
+              <a href="https://memory-game-chi-beige.vercel.app/">
                 <button className="text-white group border-2 px-6 py-3 my-2 flex  items-center  hover:bg-pink-600 hover:border-pink-600">
                   view{" "}
                   <span className="group-hover:pl-5 duration-300">
