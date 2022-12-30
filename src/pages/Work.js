@@ -19,6 +19,7 @@ import rx from "../assets/ex.JPG";
 import ro from "../assets/ro.JPG";
 import hm from "../assets/11.JPG";
 import bd from "../assets/22.JPG";
+import gs from "../assets/33.JPG";
 
 export const Work = () => {
   return (
@@ -55,6 +56,35 @@ export const Work = () => {
           </div>
           <div className=" flex-2   ">
             <img className="mx-auto w-[700px]" src={hm}></img>
+          </div>
+        </div>
+        {/* ////////////////////////  */}
+
+
+           {/* /////////////////////// */}
+           <div className="flex  sm:flex-col-reverse md:flex-row justify-between border-gray-600 rounded-md border p-2 my-2 ">
+          <div className=" flex-1 flex flex-col justify-between p-4 ">
+            <p className=" text-2xl border-b-2 mx-auto font-bold">
+              Stacks
+            </p>
+            <p className=" text-2xl  mx-auto  ">React.js</p>
+            <p className=" text-2xl  mx-auto  ">Node.js</p>
+            <p className=" text-2xl  mx-auto  ">Redux</p>
+
+            <div className="mx-auto  ">
+              {" "}
+              <a href="https://hms-client-react.vercel.app/login/">
+                <button className="text-white group border-2 px-6 py-3 my-2 flex  items-center  hover:bg-pink-600 hover:border-pink-600">
+                  view{" "}
+                  <span className="group-hover:pl-5 duration-300">
+                    <HiArrowNarrowRight className="ml-3 " />
+                  </span>
+                </button>
+              </a>
+            </div>
+          </div>
+          <div className=" flex-2   ">
+            <img className="mx-auto w-[700px]" src={gs}></img>
           </div>
         </div>
         {/* ////////////////////////  */}
