@@ -44,5 +44,9 @@
     "@reduxjs/toolkit": "^1.8.5",
     "react-redux": "^8.0.2",
     "react-router-dom": "6"
-  }
+  },
+  "engines": {
+  "node": "22.x"
+}
+
 }
